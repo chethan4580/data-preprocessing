@@ -1,0 +1,5 @@
+Name,Age,Salary,Department
+Eve,28.0,60000.0,HR
+Frank,40.0,70000.0,HR
+Grace,32.0,,Finance
+Hank,,72000.0,
